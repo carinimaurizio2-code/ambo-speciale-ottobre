@@ -1,0 +1,8 @@
+{
+  "appId": "it.mauriziocarini.amboottobre",
+  "appName": "Ambo Ottobre",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
